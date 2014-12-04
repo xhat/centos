@@ -1,0 +1,5 @@
+# add end of the .inputrc
+
+set match-hidden-files off 
+set show-all-if-ambiguous on
+set completion-ignore-case on
