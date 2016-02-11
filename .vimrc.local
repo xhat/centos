@@ -1,0 +1,10 @@
+set encoding=utf-8
+set termencoding=utf-8
+set fencs=ucs-bom,utf8,gb18030,gbk,gb2312,big5,euc-jp,euc-kr,latin1,cp936
+
+imap jk <ESC>
+noremap qq <ESC>:q!<CR>
+imap vv <ESC>:w<CR>
+map vv <ESC>:w<CR>
+
+set nofen "不折叠
